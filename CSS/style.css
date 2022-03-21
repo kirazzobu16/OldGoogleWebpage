@@ -1,0 +1,17 @@
+/* logo ortalandı. */
+.logo {
+    display: block; 
+    margin:10vh auto 5vh;
+}
+/* nav kısmın ayarlandığı yer */
+.nav {
+    background-color: rgb(238, 238, 238);
+    width: 85vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+
+
