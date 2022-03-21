@@ -1,15 +1,30 @@
 /* logo ortalandı. */
 .logo {
     display: block; 
-    margin:10vh auto 5vh;
+    margin:7vh auto 3vh;
 }
 /* nav kısmın ayarlandığı yer */
 .nav {
     background-color: rgb(238, 238, 238);
-    width: 85vw;
-    margin: 0 auto;
+    width: 90vw;
+    margin: 0 auto 1vh;
     text-align: center;
 }
+
+.section {
+    width: 90vw;
+    margin: 0 auto 1vh;
+    display: flex;
+    justify-content: space-between;    
+}
+
+.specialSearch {
+    width:37%;
+    background-color: #7EE5DA;
+    text-align: center;
+    height: fit-content;
+}
+
 
 
 
